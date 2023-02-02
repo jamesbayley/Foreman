@@ -1,3 +1,0 @@
-import ETABS 
-
-ETABS.start()
